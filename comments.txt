@@ -1,0 +1,14 @@
+Learnings
+____________________________________________
+
+> React Components
+> React props
+> React Routing
+> React Hooks with useEffect()
+> Handle Forms
+> Handle Http Requests
+> React States and global States
+____________________________________________
+
+
+

@@ -1,0 +1,36 @@
+.header {
+    position: sticky;
+    top: 0;
+    right: 0;
+    left: 0;
+    background-color: rgb(2, 48, 134);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px 0 20px;
+}
+
+.h3 {
+    color: whitesmoke;
+}
+
+.nav {
+    color: whitesmoke;
+    display: flex;
+    column-gap: 15px;
+}
+
+.link {
+    text-decoration: none;
+    color: white;
+}
+
+.favBadge {
+    position: relative;
+    top: -5px;
+    background-color: whitesmoke;
+    border-radius: 100%;
+    padding: 0 5px 0 5px;
+    color: rgb(2, 48, 134);
+    font-size: 10px;
+}

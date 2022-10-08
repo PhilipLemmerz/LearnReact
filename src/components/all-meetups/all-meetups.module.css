@@ -1,0 +1,10 @@
+.meetup {
+    background-color: rgba(173, 216, 230, 0.603);
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 10px;    
+}
+
+.meetUpBox {
+    margin: 2rem ;
+}
